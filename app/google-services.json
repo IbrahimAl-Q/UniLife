@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "132349855743",
+    "firebase_url": "https://unilife-1578773514710.firebaseio.com",
+    "project_id": "unilife-1578773514710",
+    "storage_bucket": "unilife-1578773514710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132349855743:android:a25503742ce98e747b09ca",
+        "android_client_info": {
+          "package_name": "com.example.unilife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132349855743-j88aar3n5pdec8ijmmdjik51e4j6tvm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unilife",
+            "certificate_hash": "e9690d5e49f165e38014f2b48ae0091ac290c257"
+          }
+        },
+        {
+          "client_id": "132349855743-1r7hnij5d4qfac17qphm2242ran3lnsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFa8xiZ1kKVBmAWaO8iA_35GF79pSfEDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132349855743-1r7hnij5d4qfac17qphm2242ran3lnsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
