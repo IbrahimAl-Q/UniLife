@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/buy"
+        android:icon="@drawable/buy_launch"
+        android:title="Buy"
+        />
+
+    <item
+        android:id="@+id/forum"
+        android:icon="@drawable/forum"
+        android:title="Forum" />
+    <item
+        android:id="@+id/sell"
+        android:icon="@drawable/sell_launch"
+        android:title="Sell" />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Profile" />
+
+</menu>
+
+
+<!--
+android:icon="@drawable/ic_sms"
+
+-->

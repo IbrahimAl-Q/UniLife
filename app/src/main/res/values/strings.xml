@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UniLife</string>
+    <string name="facebook_app_id">649738025766212</string>
+    <string name="fb_login_protocol_scheme">fb649738025766212</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="password_hint"><font size="12">6 Characters or more</font></string>
+    <string name="email_hint"><font size="12">you@example.com</font></string>
+
+    <string name="booktitle_hint"><font size="12"> Java Programming</font></string>
+</resources>
